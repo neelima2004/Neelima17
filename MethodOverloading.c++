@@ -19,7 +19,7 @@ class MethodOverloading
 
 int main()
 {
-    MethodOverloding obj;
+    MethodOverloading obj;
     obj.Multiplication(6,5);
     obj.Multiplication(6,5,2);
     return 0;
